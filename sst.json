@@ -1,0 +1,5 @@
+{
+  "name": "sst-nx",
+  "region": "us-east-1",
+  "main": "libs/stacks/src/index.ts"
+}

@@ -1,6 +1,9 @@
 # SST NX Example
 
-A simple example using [SST](https://sst.dev) in a [NX](https://nx.dev) monorepo.
+Most basic implementation of:
+
+- [SST](https://sst.dev)
+- [NX](https://nx.dev)
 
 ## Development
 
